@@ -1,9 +1,11 @@
 # Nigerian-Inflation-Project
+[Effects of Economic Factors on Rates of Violence in Nigeria; Final STAT 5000 (1).pdf](https://github.com/msaulaw/Nigerian-Inflation-Project/files/14877557/Effects.of.Economic.Factors.on.Rates.of.Violence.in.Nigeria.Final.STAT.5000.1.pdf)
 # Introduction
 
 ## Background
 
 I chose this topic because I saw a graph of the violence in Nigeria presented by The Economist, which made me realize that the violence might be connected to rising inflation and general food prices.
+
 
 Inflation is a serious challenge that affects everyone. It may also contribute to the unrest and violence that we witness in some countries, such as Nigeria. Climate change is another urgent issue that cannot be overlooked, especially since it will have disproportionate impacts on the working class of the global south, with global repercussions on the economies of the world, due to globalization. For example, in Nigeria, people spend 97.4% of their income on food. Inflation also has differential effects on various segments of the population, which affects their employment and access to basic needs.
 
